@@ -1,0 +1,33 @@
+{
+  "name": "threejs_vr_app_quickstart",
+  "version": "1.0.0",
+  "description": "quickly create VR web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominuszagare/ThreeJS_VR_app_quickstart.git"
+  },
+  "keywords": [
+    "vr",
+    "threejs",
+    "webxr"
+  ],
+  "author": "dominuszagare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominuszagare/ThreeJS_VR_app_quickstart/issues"
+  },
+  "homepage": "https://github.com/dominuszagare/ThreeJS_VR_app_quickstart#readme",
+  "dependencies": {
+    "stats.js": "^0.17.0",
+    "three": "^0.148.0",
+    "three-mesh-bvh": "^0.5.20",
+    "three-mesh-ui": "^6.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

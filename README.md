@@ -8,6 +8,9 @@ libraries used:
 - three-mesh-bvh (Bounding volume hierarchy for faster raycasting)
 - stats.js (FPS counter)
 
+- express (serving static files)
+- socket.io (web socket multiplayer capabilities)) 
+
 !Aplication was tested only on  Ocolus Quest other headsets may not work.
 It expects to find a least one controler with a trigger and grip button.
 

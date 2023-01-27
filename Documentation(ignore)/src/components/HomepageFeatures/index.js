@@ -4,10 +4,10 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Hiter razvoj',
+    title: 'Basic VR interactions',
     description: (
       <>
-        Projekt vsebuje ze vse potrebno za interakcijo z navideznim okoljem, preostane le oblikovanje tega navideznega okolja.
+        Contains teleportation, UI, object manipulation using controlers or hand tracking
       </>
     ),
   },
@@ -15,15 +15,15 @@ const FeatureList = [
     title: 'ThreeJS',
     description: (
       <>
-        Uporablja knjiznico ThreeJS za izrisovanje in manipulacijo 3D grafike.
+        Built on top of the TreeJS libary
       </>
     ),
   },
   {
-    title: 'Enostavna distribucija',
+    title: 'Desktop mode',
     description: (
       <>
-        Narejeno aplikacijo je nato enostavno deliti z ostalimi.
+        Even without a VR headset you can interact with the app using mouse and keyboard.
       </>
     ),
   },

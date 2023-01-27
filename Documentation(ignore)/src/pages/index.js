@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Oglej si dokumentacijo
+            Create a VR app 
           </Link>
         </div>
       </div>

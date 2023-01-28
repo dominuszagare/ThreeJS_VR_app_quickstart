@@ -2,12 +2,11 @@
 # VR library for three.js
 
 ## Features
-- [] multiplayer
-- [] hand tracking
-- [] physics
+- [ ] multiplayer
+- [ ] hand tracking
+- [ ] physics
 - [x] teleportation
 - [x] object selection
-- [x] locomotion
 - [x] inserting object into scene
 - [x] drawing tool
 - [x] 3D menu's
@@ -17,9 +16,19 @@ includes a template for creating a multiplayer VR application.
 
 ![interaction](./Documentation(ignore)/docs/img/teleportAndSelection.png)
 
+## Why not Unity?
+Why not use Unity? Unity is a great choice for creating VR applications with a lot of features and a great community. It also enables you to create applications for multiple platforms even web applications. It also has better performance by using Webassembly to run inside a browser. 
+
+But the main reason why I chose to use three.js is that is relatively easy to learn and it is very flexible and lightweight. You can create small apps that include only the things you need but for larger or more demanding applications i would recommend using Unity.
+
+[Unity + WebXR](https://github.com/Rufus31415/Simple-WebXR-Unity)
+
 ## Tutorials
 
 Tutorials on how to use the library can be found in the [Documentation](https://dominuszagare.github.io/ThreeJS_VR_app_quickstart/)
+
+Other great resources for learning three.js are:
+[building apps with three.js overview](https://www.youtube.com/watch?v=Q7AOvWpIVHU)
 
 ## Example
 ```js

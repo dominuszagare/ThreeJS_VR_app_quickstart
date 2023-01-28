@@ -1,6 +1,6 @@
 {
   "name": "threejs_vr_app_quickstart",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "quickly create VR web app",
   "main": "index.js",
   "scripts": {

@@ -19,7 +19,7 @@ includes a template for creating a multiplayer VR application.
 ## Why not Unity?
 Why not use Unity? Unity is a great choice for creating VR applications with a lot of features and a great community. It also enables you to create applications for multiple platforms even web applications. It also has better performance by using Webassembly to run inside a browser. 
 
-But the main reason why I chose to use three.js is that is relatively easy to learn and it is very flexible and lightweight. You can create small apps that include only the things you need. (projects contains a Webpack config that will reduce the app size even further) But for larger or more demanding applications I would recommend using Unity.
+But the main reason why I chose to use three.js is that is relatively easy to learn if you are already used to creating web apps with JavaScript. It also enables us to use many of web page technologies like frameworks, databases and other libraries. But for larger or more demanding 3D applications, I would recommend using Unity.
 
 [Unity + WebXR](https://github.com/Rufus31415/Simple-WebXR-Unity)
 
